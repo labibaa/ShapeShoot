@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3bd16e29c76b6b24a8cc96789b641797
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sylvester
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0755cd1a80dcd3748bd92d147116b421, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
